@@ -1,0 +1,26 @@
+[
+    {
+        "firstName": "Arjun",
+        "lastName": "Jaiswal",
+        "patientId": "456",
+        "address": "Hajipur",
+        "city": "Patna",
+        "state": "Bihar",
+        "zip": "845303",
+        "phoneNumber": "91 9821848065",
+        "email": "arjujai1@gmail.com",
+        "blood": "AB+"
+    },
+    {
+        "firstName": "Arjun",
+        "lastName": "Jaiswal",
+        "patientId": "567",
+        "address": "Hajipur",
+        "city": "Patna",
+        "state": "Bihar",
+        "zip": "845303",
+        "phoneNumber": "91 9821848065",
+        "email": "arjujai1@gmail.com",
+        "blood": "AB+"
+    }
+]

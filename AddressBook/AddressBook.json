@@ -1,0 +1,26 @@
+[
+    {
+        "firstName": "Arjun",
+        "lastName": "Jaiswal",
+        "address": "Purnahiya Kothi",
+        "city": "Motihari",
+        "state": "Bihar",
+        "zipCode": 845303,
+        "phoneNumber": 919821848065,
+        "emailId": "arjunjaiswal5@gmail.com",
+        "gender": "Male",
+        "profession": "Engineer"
+    },
+    {
+        "firstName": "Raju",
+        "lastName": "Jaiswal",
+        "address": "Purnahiya Kothi",
+        "city": "Hajipur",
+        "state": "Bihar",
+        "zipCode": 845303,
+        "phoneNumber": 919567893456,
+        "emailId": "rajujaiswal5@gmail.com",
+        "gender": "Male",
+        "profession": "Doctor" 
+    }
+]
